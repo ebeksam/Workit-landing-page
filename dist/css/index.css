@@ -47,7 +47,7 @@ img {
     height: 33.76rem;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   .header {
     height: 30rem;
   }
@@ -83,7 +83,7 @@ img {
     margin-left: 2.44rem;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   .header .content .logo img {
     margin-left: 1rem;
   }
@@ -118,7 +118,7 @@ img {
     margin-left: -13.63rem;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   .header .pattern1 {
     display: none;
   }
@@ -135,7 +135,7 @@ img {
     margin-right: -6.01rem;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   .header .pattern2 {
     display: none;
   }
@@ -160,7 +160,7 @@ img {
     line-height: 3.75rem;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   .header .data .header-text {
     font-size: 3.125rem;
     line-height: 3.125rem;
@@ -197,7 +197,7 @@ img {
     margin-left: 10.73rem;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   .header .data img {
     width: 80%;
     margin: 4rem 2.56rem 0 2.25rem;
@@ -239,7 +239,7 @@ main .main::after {
     box-shadow: none;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   main .main {
     padding: 7.2rem 1rem 4.48rem 1rem;
     text-align: center;
@@ -277,7 +277,7 @@ main .main .main-text .number-div .number {
     padding-top: 3.5em;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   main .main .main-text .number-div {
     float: none;
     flex-direction: row;
@@ -320,7 +320,7 @@ main .founder {
     padding: 6.27em 2.5em 5em 2.44em;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   main .founder {
     padding: 6.27rem 1rem 4.62rem 1rem;
     justify-content: center;
@@ -335,7 +335,7 @@ main .founder .founder-img {
     width: 37%;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   main .founder .founder-img {
     width: 75%;
   }
@@ -355,7 +355,7 @@ main .founder .founder-text {
     width: 80%;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   main .founder .founder-text {
     padding: 2rem 1.94rem;
     margin-top: 14.25rem;
@@ -376,7 +376,7 @@ main .founder .founder-text h1 {
     padding-bottom: 1.5rem;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   main .founder .founder-text h1 {
     font-size: 2rem;
     line-height: 3rem;
@@ -427,7 +427,7 @@ main .founder .founder-text .pattern-3 {
     margin: 0rem -2.55rem -10.86rem 0.44rem;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   main .founder .founder-text .pattern-3 {
     display: none;
   }
@@ -442,7 +442,7 @@ footer {
     padding-bottom: 7.61rem;
   }
 }
-@media (max-width: 414px) {
+@media (max-width: 500px) {
   footer {
     padding-bottom: 3.99rem;
   }
